@@ -1,0 +1,11 @@
+com\example\examen\examen\controller\AlumnoController.class
+com\example\examen\examen\repository\AlumnoRepository.class
+com\example\examen\examen\service\AlumnoService.class
+com\example\examen\examen\ExamenApplication.class
+com\example\examen\examen\model\CalificacionesModel.class
+com\example\examen\examen\config\SpringFoxConfig.class
+com\example\examen\examen\controller\CalificacionesController.class
+com\example\examen\examen\model\AlumnoModel.class
+com\example\examen\examen\repository\CalificacionesRepository.class
+com\example\examen\examen\model\MateriaModel.class
+com\example\examen\examen\service\CalificacionesService.class
